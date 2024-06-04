@@ -1,0 +1,22 @@
+export const nigerianAccents = [
+    { slug: "yoruba", fullName: "Yoruba" },
+    { slug: "igbo", fullName: "Igbo" },
+    { slug: "hausa", fullName: "Hausa" },
+    { slug: "pidgin", fullName: "Nigerian Pidgin" },
+    { slug: "efik", fullName: "Efik" },
+    { slug: "ibibio", fullName: "Ibibio" },
+    { slug: "kanuri", fullName: "Kanuri" },
+    { slug: "ijaw", fullName: "Ijaw" },
+    { slug: "tiv", fullName: "Tiv" },
+    { slug: "nupe", fullName: "Nupe" },
+    { slug: "igala", fullName: "Igala" },
+    { slug: "idoma", fullName: "Idoma" },
+    { slug: "isoko", fullName: "Isoko" },
+    { slug: "ebira", fullName: "Ebira" },
+    { slug: "angas", fullName: "Angas" },
+    { slug: "birom", fullName: "Birom" },
+    { slug: "gwari", fullName: "Gwari" },
+    { slug: "ijo", fullName: "Ijo" },
+    { slug: "jukun", fullName: "Jukun" },
+    { slug: "kanuri", fullName: "Kanuri" }
+];
