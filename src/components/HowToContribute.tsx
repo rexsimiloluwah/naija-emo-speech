@@ -10,7 +10,7 @@ const HowToContribute = () => {
     },
     {
         id: 2,
-        title: <p>Visit the "Contribute" section of the <Link href="/dashboard" className="underline underline-offset-4 font-semibold hover:text-primary">Dashboard</Link>.</p>
+        title: <p>Visit the &quot;Contribute&quot; section of the <Link href="/dashboard" className="underline underline-offset-4 font-semibold hover:text-primary">Dashboard</Link>.</p>
     },
     {
         id: 3,

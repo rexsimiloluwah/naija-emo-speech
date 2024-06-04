@@ -8,17 +8,18 @@ import { Header, SubHeader } from './Header'
 import { Button } from './ui/button'
 import { ArrowRightCircle } from 'lucide-react'
 
-const RecordCTA = () => {
-    const emotionalData = [
-        { label: EmotionLabel.Happy, count: 30 },
-        { label: EmotionLabel.Sad, count: 20 },
-        { label: EmotionLabel.Fearful, count: 15 },
-        { label: EmotionLabel.Surprised, count:  4},
-        { label: EmotionLabel.Fearful, count: 10 },
-        { label: EmotionLabel.Angry, count: 5 },
-        { label: EmotionLabel.Neutral, count: 8 }
-    ];
+const emotionalData = [
+    { label: EmotionLabel.Happy, count: 30 },
+    { label: EmotionLabel.Sad, count: 20 },
+    { label: EmotionLabel.Fearful, count: 15 },
+    { label: EmotionLabel.Surprised, count:  4},
+    { label: EmotionLabel.Fearful, count: 10 },
+    { label: EmotionLabel.Angry, count: 5 },
+    { label: EmotionLabel.Neutral, count: 8 }
+];
 
+
+const RecordCTA = () => {
     const [isClient, setIsClient] = useState(false);
 
     useEffect(() => {
@@ -27,7 +28,7 @@ const RecordCTA = () => {
 
     const emotionalDataCount = useMemo(() => (
         emotionalData.map(d => d.count).reduce((acc, curr) => acc + curr)
-    ), [emotionalData])
+    ), [])
 
     return (
         <div className="bg-background border-t-[1px] border-gray-100">
