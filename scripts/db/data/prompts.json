@@ -1,0 +1,450 @@
+[
+    {
+        "prompt_text": "I just got promoted at work, I am so happy!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I can't believe he betrayed my trust, it hurts so much.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "Who dey outside? I dey fear this kind night movement.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This jollof rice no sweet at all, very disappointing.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will attend the meeting tomorrow by 10 AM.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "Why did you shout at me in front of everyone?",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "Wow, I didn't expect this surprise party, thank you!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I am so excited to travel to Abuja next week!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I feel so lonely without my friends around.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "I heard a strange sound outside, it's frightening.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "The smell in this room is so disgusting.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will check my schedule and let you know.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "I am really upset with your behavior today.",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "This is the best birthday gift ever, thank you!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I won the dance competition, I am so thrilled!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I feel so sad about the loss of my friend.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "Are you sure say nobody dey house? I dey fear o.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This milk has gone bad, it tastes really awful.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will be working from home today.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "You broke my favorite mug, I am really angry!",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I am completely surprised by this unexpected news.",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I just got an award for my hard work!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I can't stop crying, I miss my hometown.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "Something strange happened at midnight, I am scared.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This soup no make sense at all, very disgusting.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will call you later in the evening.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "Your actions today really annoyed me a lot.",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I wasn't expecting this gift, I am surprised!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I am so happy because my team won!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I feel so heartbroken by the news I received.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "The way he jumped out scared me a lot.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "The food in that restaurant was very disgusting.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will be attending the conference next week.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "You really pissed me off with your comments.",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I am so surprised to see you here!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "Wahala no dey, I just win jackpot!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "Chai, I no fit believe say him don leave me.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "Abeg, you hear that sound?",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This food no sweet at all.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I go waka reach market later.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "Why you go break my phone like that?",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "Kai! You really surprise me with this gift!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "Omo, I dey very happy to see you!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I dey really tire today, no energy at all.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "Na who dey knock for door this night?",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This soup don spoil, I no fit chop am.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "E be like say rain go fall later.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "Why you no tell me before you do am?",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "Wow! I no expect this kain thing from you!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I just dey jolly, everything dey okay.",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "E pain me say I no pass the exam.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "Abeg, make we waka fast, I dey fear.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "Yuck! This thing dey smell bad.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I dey go office now, catch you later.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "You dey mad? Why you go do that kind thing?",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "Chei! You mean am? Na real wah o!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I can't believe I passed the exam, I am elated!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I am really sad that my team lost the match.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "I saw a shadow in the dark, it scared me.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This room smells really bad, it's so disgusting.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I have to finish my work before evening.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "Why did you insult me in front of everyone?",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I am so shocked by the news you shared.",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I got a promotion at work, I am ecstatic!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I feel so down because I failed my test.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "I heard a creepy noise in the backyard.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This stew tastes horrible, I can't eat it.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will visit the market later in the day.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "I am furious about the mistake you made.",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I am amazed by your incredible performance today.",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I can't contain my happiness, I got the job!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I feel very sad about what happened yesterday.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "I was terrified when the lights went out suddenly.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "The taste of this drink is absolutely disgusting.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I have a meeting scheduled for tomorrow morning.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "I can't believe you ignored my calls, I'm angry!",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "The surprise party you organized was fantastic!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I am very excited about our upcoming vacation!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I can't stop crying because my dog ran away.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "I heard footsteps in the hallway, it's eerie.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This meat is undercooked, I can't eat it.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will go for a walk in the evening.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "You made me very angry with your rude remarks.",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I am astonished by how well you did it.",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I am so happy today, everything is going well!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I am feeling so sad because my project failed.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "I was so scared when the dog barked loudly.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This dish is so disgusting, I can't even smell it.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will join the meeting at noon tomorrow.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "You made me so angry with your attitude today.",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I can't believe you did this, I'm surprised!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I just received great news, I'm very happy!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I feel so sad about missing the family reunion.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "I was scared when I saw the shadow move.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This place smells awful, it's very disgusting.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will send the email later this afternoon.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "I am very angry because you lied to me.",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I am so surprised to hear you won the award!",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I am really happy, my sister is getting married!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I feel so sad that I lost my favorite book.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "I got scared when the lights suddenly went out.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "This drink tastes horrible, I can't finish it.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will be traveling to Lagos tomorrow morning.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "I am furious that you forgot my birthday!",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I am shocked to find out the truth about you.",
+        "emotional_label": "Surprise"
+    },
+    {
+        "prompt_text": "I am so happy that I passed all my exams!",
+        "emotional_label": "Happy"
+    },
+    {
+        "prompt_text": "I feel so sad, my favorite show got canceled.",
+        "emotional_label": "Sad"
+    },
+    {
+        "prompt_text": "I heard someone call my name, it scared me.",
+        "emotional_label": "Fear"
+    },
+    {
+        "prompt_text": "The food you cooked is very disgusting, I can't eat it.",
+        "emotional_label": "Disgust"
+    },
+    {
+        "prompt_text": "I will attend the wedding ceremony next Saturday.",
+        "emotional_label": "Neutral"
+    },
+    {
+        "prompt_text": "I am really angry with the way you treated me.",
+        "emotional_label": "Anger"
+    },
+    {
+        "prompt_text": "I was so surprised to see my old friend today!",
+        "emotional_label": "Surprise"
+    }
+]
